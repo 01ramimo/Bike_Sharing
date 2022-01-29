@@ -11,22 +11,36 @@ The purpose of this analysis is to process and export clean dataset into Tableau
 
 ### Results
 
-We were able to determine the following:
-
-•	The total number rides 
-
-![Number of trips](https://user-images.githubusercontent.com/89875689/151663160-4cb1a287-ed89-4be6-b58f-879cda80614b.png)
-
-•	The total number of users who were subscribers to the company versus just customers as (1,900,359 and 443,865) respectively.
-![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/89875689/151663238-2c762b51-b4ff-4dd0-8c2a-e33c97d6ad17.png)
+![image](https://user-images.githubusercontent.com/89875689/151663430-2ba9c30b-0fdc-4440-a90e-b967778a023c.png)
 
 
+![image](https://user-images.githubusercontent.com/89875689/151663450-57c6f469-ba48-4392-a8c7-83ff726d4c74.png)
 
 
-•	The number of users by gender i.e. (female, male and unknown).
-•	Bikes checkout by gender
-•	Trips by gender
-•	User trips by gender by weekday
+![image](https://user-images.githubusercontent.com/89875689/151663492-09ebec51-84d8-4354-b6db-c2b38f3b2e7d.png)
+
+
+![image](https://user-images.githubusercontent.com/89875689/151663513-e4c7ca2a-b025-4b28-b0c5-5ff3e172288d.png)
+
+
+![image](https://user-images.githubusercontent.com/89875689/151663523-0b8c5436-cef6-4ae5-a60b-ae71e9042c59.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
