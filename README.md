@@ -12,6 +12,12 @@ The purpose of this analysis is to process and export clean dataset into Tableau
 ### Results
 
 <img src="https://user-images.githubusercontent.com/89875689/151663430-2ba9c30b-0fdc-4440-a90e-b967778a023c.png" width="650" height="400" />
+
+
+<img src="https://user-images.githubusercontent.com/89875689/151664357-73990943-5ca5-41fd-8de5-c0ae3f9a9bbf.png" width="650" height="400" />
+
+
+
           
 
 
