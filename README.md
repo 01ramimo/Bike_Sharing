@@ -36,6 +36,9 @@ The purpose of this analysis is to process and export clean dataset into Tableau
 
 <img src="https://user-images.githubusercontent.com/89875689/151664619-660e3a4e-ce7b-410e-933a-0aa538c0aa10.png" width="1080" height="250" />
 
+
+[https://public.tableau.com/app/profile/roseanne.amimo/viz/Module14_16434218104810/Dashboard2?publish=yes]
+
 ### Summary 
 
 The visualization data created helps to answer questions that the investors might have for their project planning five W’s (What, Why, Who, When and Where?). For instance, "what" - what makes for a succefull bikesharing business, “who” - who are the end users/customers? Or “where” – where is a suitable location in terms of transportation/frequency users to start the business. In conclusion, the data visualization produced in this analysis was able to determine the gender end users to be female, male and unknown with male end users as the majority. Additionally, we were able to determine the peak hours which the users rod the bikes during the weekday as well as the weekend. Also, we were able to determined the total number of customers as well as tally hw many of these customers were subscribers to the company versus non-subscribed customers. Such obtained data would be very beneficial in strategic project business planning, however, for future analysis i would recommend additional visualization as follows:
@@ -44,9 +47,6 @@ The visualization data created helps to answer questions that the investors migh
 
 
 2. Determine the total number of users throughout the year i.e comparing summer versus winter months this would beneficial for investors to identify constraints that can impact quality, delivery and overrall project success and sustainability.
-
-
-[link to dashboard]("https://public.tableau.com/app/profile/roseanne.amimo/viz/Module14_16434218104810/Dashboard2?publish=yes")
 
 
 [https://public.tableau.com/app/profile/roseanne.amimo/viz/Module14_16434218104810/Dashboard2?publish=yes]
