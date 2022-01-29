@@ -29,7 +29,7 @@ The purpose of this analysis is to process and export clean dataset into Tableau
 
 #### User trips by gender by weekday
 
-<img src="https://user-images.githubusercontent.com/89875689/151664619-660e3a4e-ce7b-410e-933a-0aa538c0aa10.png" width="1080" height="350" />
+<img src="https://user-images.githubusercontent.com/89875689/151664619-660e3a4e-ce7b-410e-933a-0aa538c0aa10.png" width="1080" height="250" />
 
 
 
