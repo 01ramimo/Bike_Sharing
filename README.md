@@ -13,19 +13,19 @@ The purpose of this analysis is to process and export clean dataset into Tableau
 
 #### Checkout time for users
 
-<img src="https://user-images.githubusercontent.com/89875689/151663430-2ba9c30b-0fdc-4440-a90e-b967778a023c.png" width="650" height="400" />
+<img src="https://user-images.githubusercontent.com/89875689/151663430-2ba9c30b-0fdc-4440-a90e-b967778a023c.png" width="850" height="300" />
 
 #### Checkouut times by gender
 
-<img src="https://user-images.githubusercontent.com/89875689/151664357-73990943-5ca5-41fd-8de5-c0ae3f9a9bbf.png" width="650" height="400" />
+<img src="https://user-images.githubusercontent.com/89875689/151664357-73990943-5ca5-41fd-8de5-c0ae3f9a9bbf.png" width="850" height="300" />
 
 #### Trips by weekend per hour
 
-<img src="https://user-images.githubusercontent.com/89875689/151664530-9754f5e9-aa9a-431e-8900-4567e10bbccf.png" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/89875689/151664530-9754f5e9-aa9a-431e-8900-4567e10bbccf.png" width="850" height="300" />
 
 #### Trips by gender (Weekday per hour)
 
-<img src="https://user-images.githubusercontent.com/89875689/151664573-1d7ab657-ac26-434d-9e54-56d0b2f463ac.png" width="650" height="400" />
+<img src="https://user-images.githubusercontent.com/89875689/151664573-1d7ab657-ac26-434d-9e54-56d0b2f463ac.png" width="850" height="300" />
 
 #### User trips by gender by weekday
 
