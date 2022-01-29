@@ -1,6 +1,6 @@
 # Bike_Sharing
 
-# OVERVIEW
+### OVERVIEW
 
 The purpose of this analysis is to process and export clean dataset into Tableau for analysis to help persuade potential investors that bike-sharing program in Des Moines would be a successful business. Using Python Pandas library and Tableau the following were performed:
 
@@ -9,7 +9,7 @@ The purpose of this analysis is to process and export clean dataset into Tableau
 •	Using Tableau, the New York city data was analyzed and used to create different visualization to present to the investors.
 
 
-# Results
+### Results
 
 We were able to determine the following:
 
