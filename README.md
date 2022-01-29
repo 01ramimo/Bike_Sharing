@@ -21,7 +21,7 @@ The purpose of this analysis is to process and export clean dataset into Tableau
 
 #### Trips by weekend per hour
 
-<img src="https://user-images.githubusercontent.com/89875689/151664530-9754f5e9-aa9a-431e-8900-4567e10bbccf.png" width="650" height="400" />
+<img src="https://user-images.githubusercontent.com/89875689/151664530-9754f5e9-aa9a-431e-8900-4567e10bbccf.png" width="400" height="400" />
 
 #### Trips by gender (Weekday per hour)
 
