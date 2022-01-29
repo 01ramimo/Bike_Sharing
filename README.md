@@ -18,7 +18,6 @@ We were able to determine the following:
 ![Number of trips](https://user-images.githubusercontent.com/89875689/151663160-4cb1a287-ed89-4be6-b58f-879cda80614b.png)
 
 •	The total number of users who were subscribers to the company versus just customers as (1,900,359 and 443,865) respectively.
-
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/89875689/151663238-2c762b51-b4ff-4dd0-8c2a-e33c97d6ad17.png)
 
 
