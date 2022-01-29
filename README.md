@@ -46,7 +46,7 @@ The visualization data created helps to answer questions that the investors migh
 2. Determine the total number of users throughout the year i.e comparing summer versus winter months this would beneficial for investors to identify constraints that can impact quality, delivery and overrall project success and sustainability.
 
 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/roseanne.amimo/viz/Module14_16434218104810/Dashboard2?publish=yes")
+[link to dashboard]("https://public.tableau.com/app/profile/roseanne.amimo/viz/Module14_16434218104810/Dashboard2?publish=yes")
 
 
 [https://public.tableau.com/app/profile/roseanne.amimo/viz/Module14_16434218104810/Dashboard2?publish=yes]
